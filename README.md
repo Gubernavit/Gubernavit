@@ -5,7 +5,7 @@
 * 🎓 Estudante de Engenharia da Computação na **Anhanguera**
 * 🎮 Cursando Programação de Jogos no **SENAI**
 * 👾 Entusiasta de Game Design e Low Poly
-* 💻 `if(funcionando){ nao_mexe(); }`
+* 💻 `if(funcionando){ NaoMecher(); }`
 
 ---
 
