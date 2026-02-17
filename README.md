@@ -40,4 +40,9 @@
 ---
 
 ### 🎵 Ouvindo agora:
-[![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+
+<a href="https://www.last.fm/user/Gubernavit">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&min_play_count=1&theme=dark" alt="Ouvindo agora no YouTube Music" width="400" />
+</a>
+
+<br/>
