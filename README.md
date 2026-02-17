@@ -1,38 +1,43 @@
-# A lil bit about me :)
+# E aí, sou o Thalisson! 🍊
 
-* 🎓 Estudante de Programação para Jogos no SENAI
-* 🏗️ Cursando Engenharia da Computação na Anhanguera
-* 🎮 Game Dev em constante evolução
-* ☕ `if(funcionando){ nao_mexe; }`
+### Um pouquinho sobre mim :)
 
-### Connect with me:
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/thalisson_rr)
-[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">](https://www.tiktok.com/@thalisson_rr)
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">](https://discord.com/users/thalisson_rr)
+* 🎓 Estudante de Engenharia da Computação na **Anhanguera**
+* 🎮 Cursando Programação de Jogos no **SENAI**
+* 👾 Entusiasta de Game Design e Low Poly
+* 💻 `if(funcionando){ nao_mexe(); }`
 
 ---
 
-### LANGUAGES:
-<div style="display: inline_block">
-  <img align="center" alt="C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-
-### TOOLS:
-<div style="display: inline_block">
-  <img align="center" alt="Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Godot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="center" alt="Blender" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="center" alt="Inkscape" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
-  <img align="center" alt="Krita" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krita/krita-original.svg">
-  <br><br>
-  <img align="center" alt="VS Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-
----
+### Conecte-se comigo:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=orange" alt="Stats" />
+<a href="https://www.instagram.com/thalisson_rr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"></a>
+<a href="https://www.tiktok.com/@thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="tiktok" width="40" height="40"></a>
+<a href="https://discord.com/users/thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
 </p>
+
+---
+
+### 🛠️ Linguagens e Tecnologias:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/krita/317BBF" alt="krita" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
+
+---
+
+### 🎵 Ouvindo agora:
+[![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
