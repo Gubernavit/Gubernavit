@@ -12,9 +12,15 @@
 ### Conecte-se comigo:
 
 <p align="left">
-<a href="https://www.instagram.com/thalisson_rr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"></a>
-<a href="https://www.tiktok.com/@thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="tiktok" width="40" height="40"></a>
-<a href="https://discord.com/users/958514937748881438" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
+<a href="https://www.instagram.com/thalisson_rr" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">
+</a>
+<a href="https://www.tiktok.com/@thalisson_rr" target="_blank">
+  <img src="https://cdn.simpleicons.org/tiktok/white" width="40" height="40">
+</a>
+<a href="https://discord.com/users/1300515255226466545" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40">
+</a>
 </p>
 
 ---
@@ -22,19 +28,19 @@
 ### 🛠️ Linguagens e Tecnologias:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/krita/317BBF" alt="krita" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/krita/317BBF" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -51,8 +57,8 @@
       </a>
     </td>
     <td>
-      <a href="https://discord.com/users/958514937748881438">
-        <img src="https://lanyard.websandbox.xyz/api/958514937748881438.png?bg=0d1117&borderRadius=5px" width="380" />
+      <a href="https://discord.com/users/1300515255226466545">
+        <img src="https://lanyard.constant.rocks/api/1300515255226466545?theme=dark&bg=0d1117" width="380" />
       </a>
     </td>
   </tr>
