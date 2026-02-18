@@ -45,21 +45,19 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">🎵 <b>Ouvindo agora</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.last.fm/user/Gubernavit">
-        <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="380" />
+    <td align="center" width="400">
+      <a href="https://discord.com/users/1300515255226466545">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1300515255226466545?theme=dark&bg=0d1117&animated=true" width="380"/>
       </a>
     </td>
-    <td>
-  <a href="https://discord.com/users/1300515255226466545">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1300515255226466545?theme=dark&bg=0d1117&animated=true" width="380" />
-  </a>
-</td>
+    <td align="center" width="400">
+      <h3>🎵 Ouvindo agora</h3>
+      <a href="https://www.last.fm/user/Gubernavit">
+        <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="380"/>
+      </a>
+    </td>
   </tr>
 </table>
 
