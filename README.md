@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td align="center">🎵 <b>Ouvindo agora</b></td>
-    <td align="center">🕹️ <b>Status no Discord</b></td>
+    <td align="center">💬 <b>Status no Discord</b></td>
   </tr>
   <tr>
     <td>
