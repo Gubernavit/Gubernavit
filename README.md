@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td align="center">🎵 <b>Ouvindo agora</b></td>
-    <td align="center">💬 <b>Status no Discord</b></td>
+    <td align="center">🕹️ <b>Status no Discord</b></td>
   </tr>
   <tr>
     <td>
@@ -52,13 +52,10 @@
     </td>
     <td>
       <a href="https://discord.com/users/1300515255226466545">
-        <img src="https://lanyard.wrapped.run/api/1300515255226466545?theme=dark&bg=0d1117&borderRadius=10px" width="380" />
+        <img src="https://lanyard.wrapped.run/api/1300515255226466545?theme=dark&bg=0d1117&t=1771445544" width="380" />
       </a>
     </td>
   </tr>
 </table>
-
-# Teste de Status
-<img src="https://lanyard.wrapped.run/api/1300515255226466545?theme=dark&no_cache=true" />
 
 <br/>
