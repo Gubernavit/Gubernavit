@@ -58,4 +58,7 @@
   </tr>
 </table>
 
+# Teste de Status
+<img src="https://lanyard.wrapped.run/api/1300515255226466545?theme=dark&no_cache=true" />
+
 <br/>
