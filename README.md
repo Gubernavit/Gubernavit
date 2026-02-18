@@ -52,7 +52,7 @@
     </td>
     <td>
       <a href="https://discord.com/users/1300515255226466545">
-        <img src="https://lanyard.constant.rocks/api/i/1300515255226466545?theme=dark&bg=0d1117" width="380" />
+        <img src="https://lanyard.wrapped.run/api/1300515255226466545?theme=dark&bg=0d1117&borderRadius=10px&cache=0" width="380" />
       </a>
     </td>
   </tr>
