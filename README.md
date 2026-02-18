@@ -45,4 +45,10 @@
   <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&min_play_count=1&theme=dark" alt="Ouvindo agora no YouTube Music" width="400" />
 </a>
 
+### 🕹️ Na Steam agora:
+
+<a href="https://steamcommunity.com/id/Gubernavit">
+  <img src="https://steam-recent-games.vercel.app/api?user=76561199677194284" alt="Steam Profile" />
+</a>
+
 <br/>
