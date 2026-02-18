@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">🎵 <b>Ouvindo agora</b></td>
-    <td align="center">💬 <b>Status no Discord</b></td>
+    <td align="center">💬 <b>Discord</b></td>
   </tr>
   <tr>
     <td>
@@ -56,9 +56,11 @@
         <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="380" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://discord.com/users/1300515255226466545">
-        <img src="https://lanyard.constant.rocks/api/1300515255226466545?theme=dark&bg=0d1117" width="380" />
+        <img src="https://img.shields.io/badge/Discord-Batvara-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Online-2ecc71?style=for-the-badge" />
       </a>
     </td>
   </tr>
