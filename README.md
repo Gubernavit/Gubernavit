@@ -52,8 +52,8 @@
     </td>
     <td>
       <a href="https://steamcommunity.com/id/Gubernavit">
-  <img src="https://github-readme-steam-card.vercel.app/api/card?steamid=76561199677194284&theme=radical" alt="Steam Card" />
-</a>
+      <img src="https://github-readme-steam-card.vercel.app/api/card?steamid=76561199677194284&theme=radical& nonce=1" alt="Steam Card" />
+      </a>
     </td>
   </tr>
 </table>
