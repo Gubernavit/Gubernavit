@@ -52,7 +52,7 @@
     </td>
     <td>
       <a href="https://discord.com/users/1300515255226466545">
-        <img src="https://lanyard.websubstance.com/api/details/958514937748881438?theme=dark&bg=0d1117&border=30363d&v=2" width="380" />
+        <img src="https://lanyard.websubstance.com/api/details/1300515255226466545?theme=dark&bg=0d1117&border=30363d&v=2" width="380" />
       </a>
     </td>
   </tr>
