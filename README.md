@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.instagram.com/thalisson_rr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"></a>
 <a href="https://www.tiktok.com/@thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="tiktok" width="40" height="40"></a>
-<a href="https://discord.com/users/1300515255226466545" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
+<a href="https://discord.com/users/958514937748881438" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
 </p>
 
 ---
@@ -51,8 +51,8 @@
       </a>
     </td>
     <td>
-      <a href="https://discord.com/users/1300515255226466545">
-        <img src="https://lanyard.websandbox.xyz/api/1300515255226466545?theme=dark&bg=0d1117" width="380" />
+      <a href="https://discord.com/users/958514937748881438">
+        <img src="https://lanyard.websandbox.xyz/api/958514937748881438?theme=dark&bg=0d1117" width="380" />
       </a>
     </td>
   </tr>
