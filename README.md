@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.instagram.com/thalisson_rr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"></a>
 <a href="https://www.tiktok.com/@thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="tiktok" width="40" height="40"></a>
-<a href="https://discord.com/users/thalisson_rr" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
+<a href="https://discord.com/users/958514937748881438" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"></a>
 </p>
 
 ---
@@ -42,17 +42,17 @@
 <table>
   <tr>
     <td align="center">🎵 <b>Ouvindo agora</b></td>
-    <td align="center">🕹️ <b>Jogando agora</b></td>
+    <td align="center">💬 <b>Status no Discord</b></td>
   </tr>
   <tr>
     <td>
       <a href="https://www.last.fm/user/Gubernavit">
-        <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="350" />
+        <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="380" />
       </a>
     </td>
     <td>
-      <a href="https://steamcommunity.com/id/Gubernavit">
-      <img src="https://github-readme-steam-card.vercel.app/api/card?steamid=76561199677194284&theme=radical& nonce=1" alt="Steam Card" />
+      <a href="https://discord.com/users/958514937748881438">
+        <img src="https://lanyard.websubstance.com/api/details/958514937748881438?theme=dark&bg=111111&border=333333" width="380" />
       </a>
     </td>
   </tr>
