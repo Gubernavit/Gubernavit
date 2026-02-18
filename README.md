@@ -39,16 +39,23 @@
 
 ---
 
-### 🎵 Ouvindo agora:
-
-<a href="https://www.last.fm/user/Gubernavit">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&min_play_count=1&theme=dark" alt="Ouvindo agora no YouTube Music" width="400" />
-</a>
-
-### 🕹️ Na Steam agora:
-
-<a href="https://steamcommunity.com/id/Gubernavit">
-  <img src="https://steam-recent-games.vercel.app/api?user=76561199677194284" alt="Steam Profile" />
-</a>
+<table>
+  <tr>
+    <td align="center">🎵 <b>Ouvindo agora</b></td>
+    <td align="center">🕹️ <b>Jogando agora</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.last.fm/user/Gubernavit">
+        <img src="https://lastfm-recently-played.vercel.app/api?user=Gubernavit&count=1&theme=dark" width="350" />
+      </a>
+    </td>
+    <td>
+      <a href="https://steamcommunity.com/id/Gubernavit">
+        <img src="https://steam-recent-games.vercel.app/api?user=76561199677194284" width="350" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
