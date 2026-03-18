@@ -2,7 +2,7 @@
 
 ### Um pouquinho sobre mim :)
 
-* 🎓 Estudante de Engenharia da Computação na **Anhanguera**
+* 🎓 Estudante de Engenharia da Computação na **Anhanguera/Pitagoras**
 * 🎮 Cursando Programação de Jogos no **SENAI**
 * 👾 Game Dev em constante evolução
 * 💻 `if(funcionando){ NaoMecher(); }`
