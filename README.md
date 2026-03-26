@@ -1,10 +1,10 @@
 # E aí, sou o Thalisson! 🍊
-
 ### Um pouquinho sobre mim :)
 
 * 🎓 Estudante de Engenharia da Computação na **Anhanguera/Pitagoras**
 * 🎮 Cursando Programação de Jogos no **SENAI**
 * 👾 Game Dev em constante evolução
+* ⚡ Entusiasta de IoT & Sistemas Embarcados
 * 💻 `if(funcionando){ NaoMecher(); }`
 
 ---
@@ -34,8 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45"/>
@@ -44,6 +44,9 @@
   <img src="https://cdn.simpleicons.org/krita/317BBF" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/mqtt/660066" width="45" height="45"/>
 </p>
 
 ---
